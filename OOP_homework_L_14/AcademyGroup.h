@@ -1,6 +1,7 @@
 #pragma once
 #include "Student.h"
 
+//academy group class
 class AcademyGroup
 {
 	Student** pSt;
